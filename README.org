@@ -1,2 +1,3 @@
 * SpoWin
-Get Spotify info on Windows 
+** Get Spotify info on Windows 
+Can't get album directly from the Spotify window. A workaround is to retrieve the album info from last.fm's recent tracks while scrobbling. [[https://github.com/kimonoki/Last.fm-APIs/blob/master/lastfmapi.py][link]]
